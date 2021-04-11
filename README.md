@@ -19,4 +19,4 @@ Php7-Basic
 
 - check data is ( floot - boolen - ... )
 
-- 
+- include 
